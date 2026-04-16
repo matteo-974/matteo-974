@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Matteo 👋
 
-<!--
-**matteo-974/matteo-974** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Engineering Student  
+💻 Java | SQL | Web Development  
+📍 Looking for a 6-month internship (Sept 2025)
 
-Here are some ideas to get you started:
+## 🚀 Projects
+- Chess Game (Java, Swing)
+- Compiler (Python, ANTLR)
+- Web App (APIs, SQL)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact
+- Email: matteochauchet974@gmail.com
