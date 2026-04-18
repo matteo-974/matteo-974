@@ -6,6 +6,7 @@
 
 ## 🚀 Projects
 - Chess Game (Java, Swing)
+- Local Area Network Chat ()
 - 2-player game engine (Java, Swing)
 - Compiler (Java, ANTLR)
 - Web App (APIs, SQL, HTML, Javascript, CSS)
